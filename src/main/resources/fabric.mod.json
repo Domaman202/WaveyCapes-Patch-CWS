@@ -2,11 +2,17 @@
 	"schemaVersion": 1,
 	"id": "waveycapes-patch-cws",
 	"version": "${version}",
-	"name": "Wavey Capes Patch",
+	"name": "Wavey Capes Patch (CWS)",
 	"description": "Я целый час импортировал оригинальный мод, в итоге понял, что патч будет написать проще. Написал патч за 5 минут с учётом создания репозитория, импортирования и форматирования проекта.",
 	"authors": [
-		"DomamaN202"
+		"DomamaN202",
+		"ConceptWorx Studios"
 	],
+	"contact": {
+		"homepage": "https://t.me/CWS_chat",
+		"sources": "https://github.com/Domaman202/WaveyCapes-Patch-CWS",
+		"issues": "https://github.com/Domaman202/WaveyCapes-Patch-CWS/issues"
+	},
 	"icon": "assets/modid/icon.png",
 	"environment": "client",
 	"mixins": [
